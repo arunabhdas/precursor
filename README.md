@@ -9,3 +9,6 @@
 
 
 ==> tns create ProblemSolver --template tns-template-tab-navigation-ng
+
+
+==> tns platform clean ios

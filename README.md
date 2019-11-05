@@ -12,3 +12,6 @@
 
 
 ==> tns platform clean ios
+
+
+npm i --save-dev @nativescript/schematics

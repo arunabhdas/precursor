@@ -4,7 +4,7 @@ require("./../../runtime.js");require("./../../vendor.js");module.exports =
 /***/ "./package.json":
 /***/ (function(module) {
 
-module.exports = {"name":"nativescript-template-ng-groceries","version":"4.0.0","main":"main.js"};
+module.exports = {"android":{"v8Flags":"--expose_gc","markingMode":"none"},"main":"main.js"};
 
 /***/ })
 

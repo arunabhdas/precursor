@@ -15,10 +15,6 @@ function getArch() {
                 printf $2
                 return
                 ;;
-            -target)
-                printf `echo $2 | cut -f1 -d'-'`
-                return
-                ;;
         esac
         shift
     done

@@ -82,207 +82,71 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		okaSZRvnAaJQNm2ya5/1xJgaNGg=
+		maJBYHZuyjghjMkKBLd6QWbZVEQ=
 		</data>
-		<key>Frameworks/MDFInternationalization.framework/Headers/MDFInternationalization-umbrella.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager</key>
 		<data>
-		SjyIAGSfjOQ4Oasmd1VlO/sqvGQ=
+		ySJI562G9znuDw1pe3I+gPZafhg=
 		</data>
-		<key>Frameworks/MDFInternationalization.framework/Headers/MDFInternationalization.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
 		<data>
-		oDxyv25cMCmXjHgvhddMdVqEsIE=
+		E5PiMFtkr0ZmN8MxNrxc2l+sWqo=
 		</data>
-		<key>Frameworks/MDFInternationalization.framework/Headers/MDFRTL.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png</key>
 		<data>
-		ro/i7QV8UvCizBYD9ZlW11je4ww=
+		4qk8zwoPP/Hr3/PMu+pXpZndyoI=
 		</data>
-		<key>Frameworks/MDFInternationalization.framework/Headers/NSLocale+MaterialRTL.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png</key>
 		<data>
-		d+hSalJRAKMEZtvbwf419WdfCpc=
+		FEV/+WMMqefzlnhy+R+VDCwm2LI=
 		</data>
-		<key>Frameworks/MDFInternationalization.framework/Headers/NSString+MaterialBidi.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png</key>
 		<data>
-		osFv3q0CFTvR53/nd9O2DTJWSHc=
+		0ty6z7Lc+DVv6EbMb17x6wBO1FI=
 		</data>
-		<key>Frameworks/MDFInternationalization.framework/Headers/UIImage+MaterialRTL.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png</key>
 		<data>
-		Bh8jpF9LmK8RTHItwDk0aJ86m/Q=
+		gOrv0ek+tTv+38A1fsImH29pPmQ=
 		</data>
-		<key>Frameworks/MDFInternationalization.framework/Headers/UIView+MaterialRTL.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png</key>
 		<data>
-		NRK5NITXgfLar5JFJDA29qJBbeI=
+		4M1rDWOTRrCoNp/ODMQ4NeCEAM4=
+		</data>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png</key>
+		<data>
+		6/zeTZLnkYxSzfRaVZqa4FjuWAc=
+		</data>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png</key>
+		<data>
+		2FGtDJvOI/LkviaOmF9z3/4/rU4=
+		</data>
+		<key>Frameworks/IQKeyboardManager.framework/Info.plist</key>
+		<data>
+		Kib5AgpHFEkq+GwVT/PUh1sPmY4=
+		</data>
+		<key>Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources</key>
+		<data>
+		jBxhQIAw+u+jC0R+yWoZs2eUzIs=
 		</data>
 		<key>Frameworks/MDFInternationalization.framework/Info.plist</key>
 		<data>
-		IGbxCyq+76Hxb5cYfM/nWb6QIO4=
+		FEyc+TutdftC2yOHgzN3F08vcJg=
 		</data>
 		<key>Frameworks/MDFInternationalization.framework/MDFInternationalization</key>
 		<data>
-		DWVxtAg86JrJjGKeQ5Hb/0rPbPM=
-		</data>
-		<key>Frameworks/MDFInternationalization.framework/Modules/module.modulemap</key>
-		<data>
-		w45NIilvAv1vMGD8p4sCcnn5u0Q=
+		bZxNfBzmOFGTCKtrlsVZXBfeK3M=
 		</data>
 		<key>Frameworks/MDFInternationalization.framework/_CodeSignature/CodeResources</key>
 		<data>
-		OjgfloHfeaIx15zvrKjNxgqRjOA=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/CAMediaTimingFunction+MDCAnimationTiming.h</key>
-		<data>
-		y4LPdOAVrIW2RP8ws9foPxMZbcQ=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCFontScaler.h</key>
-		<data>
-		uvzCHrDSIFIyycIXCZP2bX7+1T0=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCFontTextStyle.h</key>
-		<data>
-		0m8r6d0YC3qaph5e5rFy1IGiMFk=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCInkGestureRecognizer.h</key>
-		<data>
-		AnrmHqPl/+sPacy6E6Jq5FKr/jY=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCInkTouchController.h</key>
-		<data>
-		xfi6SngElvvlTaUAkL1ipAzmjs4=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCInkView.h</key>
-		<data>
-		+bJpMPQQb6GAoliAdAVWbLHtWx8=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCMath.h</key>
-		<data>
-		ScRywA3LlJo7SATaiEgBg9eliwg=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCPalettes.h</key>
-		<data>
-		Dvwu+f4gXYt0Is3/wbWHDp0xukE=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCShadowElevations.h</key>
-		<data>
-		tqPPGN95AsJWPRLKOESuOLMPuQU=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCShadowLayer.h</key>
-		<data>
-		5c+ZTTzvAaXETcldZhBFOFJzB4g=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBar.h</key>
-		<data>
-		W1nHzaDabfp4i82jIr2W/Y9Vi/g=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarAlignment.h</key>
-		<data>
-		DnaGt1Ce5C+pncbZJyTuis7QpR8=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarExtendedAlignment.h</key>
-		<data>
-		wEoD9wgwpbYhom0fIbaovirOhpE=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarIndicatorAttributes.h</key>
-		<data>
-		WFrUY1T397YFJlJnXnYRpw8AJJ8=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarIndicatorContext.h</key>
-		<data>
-		ccpAN4cWqBOsk0M5ZTJUsxfAAYg=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarIndicatorTemplate.h</key>
-		<data>
-		WmlCg7gykyIwh/xqj34UXdyAZOs=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarItemAppearance.h</key>
-		<data>
-		4UtzaM+cBZL6cIsOG11tBSNwAJM=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarTextTransform.h</key>
-		<data>
-		zhmCu0mNlzefa2N/2ZEts2fMJNc=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarUnderlineIndicatorTemplate.h</key>
-		<data>
-		LZw1WF/jbU4Cq3iCC8fjF8v6eqI=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarViewController.h</key>
-		<data>
-		wNwZplx4RAImOAbRh8K9NM691rU=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTypography.h</key>
-		<data>
-		hNPbDwdYTBzUGH6qIAkoisMK+Po=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialAnimationTiming.h</key>
-		<data>
-		k10Rf1zaAstMRUJsr2Be39DI57M=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialApplication.h</key>
-		<data>
-		budVNKcQKrBEVbxfxVk8TKEat5Q=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialComponents-umbrella.h</key>
-		<data>
-		Db3Il1aUoXKUV2PHJuIvBEJivJU=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialInk.h</key>
-		<data>
-		w0CGkbiR+3OzfOMGUyt8dFVENrY=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialMath.h</key>
-		<data>
-		272Yk4mLsZC3OYo6TwoKO30w0Vs=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialPalettes.h</key>
-		<data>
-		lIbFow0eBEvffjvW6+RcUJTjO2s=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialShadowElevations.h</key>
-		<data>
-		7H7OpNTqc5IMNwmcKOdK+2gtdxY=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialShadowLayer.h</key>
-		<data>
-		sTsGcQRyqNstNzAlIi3NUL2x/CA=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialTabs.h</key>
-		<data>
-		BlY9oMqin08x6m2dpbYf27wpPAA=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialTypography.h</key>
-		<data>
-		cFOpmAvadarNqnBds7Z3mzqltKE=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIApplication+AppExtensions.h</key>
-		<data>
-		LFi32ySiq4s/afqduyyPx5ACjKE=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIFont+MaterialScalable.h</key>
-		<data>
-		GXRo2D2HWzCSvYRzlT/WYWcHns0=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIFont+MaterialSimpleEquality.h</key>
-		<data>
-		1PHnopeN5JXMG6UoX5ngObapHC8=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIFont+MaterialTypography.h</key>
-		<data>
-		qdpPGDt5O/XKoAACbJjyPnbnlvE=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIFontDescriptor+MaterialTypography.h</key>
-		<data>
-		HvakmsEE/4umBLZ44qkUid1MJ9M=
-		</data>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIView+MDCTimingFunction.h</key>
-		<data>
-		mwmVAPALonzL3clJxF62QNUDoM4=
+		2A5mqvaDv7Y+NN6Z/2sg09O9Cm8=
 		</data>
 		<key>Frameworks/MaterialComponents.framework/Info.plist</key>
 		<data>
-		4PRIMvFvdvE3mlRvIzhwCmNgsOY=
+		7mCmiaLq5Nk0jCkoUHMK7FkgsrU=
 		</data>
 		<key>Frameworks/MaterialComponents.framework/MaterialComponents</key>
 		<data>
-		0b+HhW1m+aMDGve/XMPU+Lytvuk=
+		bjeVHwaTlq4HCA7d6n3sI2DRdmM=
 		</data>
 		<key>Frameworks/MaterialComponents.framework/MaterialTabs.bundle/Resources/ar.lproj/MaterialTabs.strings</key>
 		<dict>
@@ -788,25 +652,21 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/MaterialComponents.framework/Modules/module.modulemap</key>
-		<data>
-		Y357XW8tGkHs3mzobsJXUvSJlUo=
-		</data>
 		<key>Frameworks/MaterialComponents.framework/_CodeSignature/CodeResources</key>
 		<data>
-		xZ7t0VMMU7fC8tJ9tbvwgb0Gr2Q=
+		SVsfd/NUYPxVqF16BI1ZFEMUHCI=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
-		12SWJhWR4xAwHKSx6ppVBvrES3c=
+		Ew1nkghYuJh54YjS58bs/lP19tc=
 		</data>
 		<key>Frameworks/NativeScript.framework/NativeScript</key>
 		<data>
-		amRzOcHiozQFg1RfZ5Lgx0BAcfg=
+		HSGmz2mrmAdglq/qRlYIvGjlWgw=
 		</data>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
 		<data>
-		6d72WxLmNGtAhCeyRf4yUZb3QQo=
+		9lUh+afPCwlDZlT1vcCiR5+sjoo=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/Headers/TNSLabel.h</key>
 		<data>
@@ -830,7 +690,7 @@
 		</data>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
 		<data>
-		Gc0/qrjMLRQZBZ0pBK/RS3VgkQo=
+		TTfZFp6iYZ1xhfYjDz6pNVICf5I=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/Modules/module.modulemap</key>
 		<data>
@@ -838,51 +698,15 @@
 		</data>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<data>
-		afYOcW8jBC1jNY2YkuuX5cXQ+8k=
+		T6A2cGDNrXlqWxkZzc5hY1pvg0M=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<data>
-		45lbWQUBPGkX9wC/jonNVt1ELfc=
-		</data>
-		<key>Icon-60@3x.png</key>
-		<data>
-		B8NqNeq/bSVR/81O/iSV7qdlliI=
-		</data>
-		<key>Icon-Small-40.png</key>
-		<data>
-		Zw3kaNrLFqgviLqdKRdLO2TF4u4=
-		</data>
-		<key>Icon-Small-40@2x.png</key>
-		<data>
-		2hOUsZKeQybqcE2sglZ5oVmRxBU=
-		</data>
-		<key>Icon-Small-40@3x.png</key>
-		<data>
-		0kxGwGurizS/ZZoI4c46IdqPiVI=
-		</data>
-		<key>Icon-Small-50.png</key>
-		<data>
-		+Z2RB/2R/EaOIKowgP1YjtFuV9Q=
-		</data>
-		<key>Icon-Small-50@2x.png</key>
-		<data>
-		FM2+ykcXYAxgOPcqGnovDsFibG8=
-		</data>
-		<key>Icon-Small.png</key>
-		<data>
-		v7yRlpdJhdz4oTV2b4SJSiiM+IU=
-		</data>
-		<key>Icon-Small@2x.png</key>
-		<data>
-		WeKLPphqv8kYwri+soMi/Ii1H3k=
-		</data>
-		<key>Icon-Small@3x.png</key>
-		<data>
-		AnTr2a6HZ1/xUWTye6jbjQ+d95U=
+		Q50pPLA/eN71EdoxvUYuDVMX764=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FU6pJ56wgwkeX37skQlaLkroNPY=
+		E9YKNhJT60Z+UQL28iEdfrfIyhs=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -950,11 +774,11 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		4Z6b2efQdmfu9wq8wzmTGSQ6aSE=
+		kxEnOSHosE17rDVtuwWlFZhhGDY=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		oic5tL5twrhb95w6LXilkmAFm3c=
+		L5WYFBfdMVZaEUv4slz1+1mzVc8=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -962,11 +786,11 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		rEPzFImHTko29kyqS7RCJU51j38=
+		7czrSyL0prq+tEkJd2eS/30Z+gU=
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		AUlCVJVs7b9/fYbYUm6l66FjK18=
+		QWNrHnQjmXgEFI0ojpWBp3EwCX8=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -986,23 +810,23 @@
 		</data>
 		<key>app/bundle.js</key>
 		<data>
-		082rLJaEPUwNA9ehfhnALB6Rv18=
+		Wqtxpa0O/W241pI8nFArIqbU+jA=
 		</data>
 		<key>app/package.json</key>
 		<data>
-		zA4+UEq4543/EFVbXRGdB05oX9Q=
+		DcRRCzwUq4ePrVctSCvZvIqSYJk=
 		</data>
 		<key>app/runtime.js</key>
 		<data>
-		0LHM6gVnenL8tqXfPfE6XTRDJ7o=
+		8ICzpRPR8hRUrG8Yb0B5OsTjTgM=
 		</data>
 		<key>app/tns_modules/tns-core-modules/inspector_modules.js</key>
 		<data>
-		xypzbaRHxqnN7vI2rMA/g3oVy7Q=
+		yL1ZRkBofRfzUSGNKiDIZGoaULE=
 		</data>
 		<key>app/vendor.js</key>
 		<data>
-		tz836rKGoaPy2E7H92cfcXUBFUs=
+		TSj7B7gZf81AEye3HBH+9bOfu5k=
 		</data>
 		<key>apple.png</key>
 		<data>
@@ -1082,15 +906,15 @@
 		</data>
 		<key>delete.png</key>
 		<data>
-		RBxphbGUn8wYe4D6cNHUXR0PM/Y=
+		Jn/HWjoFgYpM0Mu0qHygorOWTyc=
 		</data>
 		<key>delete@2x.png</key>
 		<data>
-		qNOmAlctjuX6yqD9A+fIFu/9Q54=
+		A2hBKne6++ePSa4dgh6Dt0hAy+U=
 		</data>
 		<key>delete@3x.png</key>
 		<data>
-		3a4seiwUoswM2Ieqt0DzEdAY6Ps=
+		dIExSZ/RhyGIoR+on1RULH4NDgU=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -1105,42 +929,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>iTunesArtwork@2x.png</key>
-		<data>
-		BZNmb45PvmvPF+4BHvitDxBNW4c=
-		</data>
-		<key>icon-60.png</key>
-		<data>
-		PCg7PaK5ZcNZGrkOSbDoEPeffq4=
-		</data>
-		<key>icon-60@2x.png</key>
-		<data>
-		BGmjpRa0+U6XyN3fYo50xxIO81o=
-		</data>
-		<key>icon-72.png</key>
-		<data>
-		hfofKpvphfNnvLf6t5JkcTu3CN8=
-		</data>
-		<key>icon-72@2x.png</key>
-		<data>
-		UwcLsbATOPtIpBhBPEl61C28E8g=
-		</data>
-		<key>icon-76.png</key>
-		<data>
-		a5ApTdcuVJASzk6xr7RLbLrJCtA=
-		</data>
-		<key>icon-76@2x.png</key>
-		<data>
-		JbGs6WSNlJFWmnlD4joySkeq2N0=
-		</data>
-		<key>icon.png</key>
-		<data>
-		mF5zm/6ri1LFXP/eXtnAMx9wkkg=
-		</data>
-		<key>icon@2x.png</key>
-		<data>
-		PtyN2Jv2YgydOnDJrfDA1b6M8xM=
-		</data>
 		<key>logo_login.png</key>
 		<data>
 		lPcty7w9PAetmVd6ubSeS3FqKgI=
@@ -1177,18 +965,6 @@
 		<data>
 		Efl7crH0sOWhLFii5w+Sxu/eJz8=
 		</data>
-		<key>nativescript-post-build</key>
-		<data>
-		1JTXEsfgoVbJZTYUkoTwXloHhWA=
-		</data>
-		<key>nativescript-pre-build</key>
-		<data>
-		oUiHGFf12xOG64bTH9RZZfGL+1s=
-		</data>
-		<key>nativescript-pre-link</key>
-		<data>
-		DBAGK9SkY6luGbDelF5IFIwG/3I=
-		</data>
 		<key>nonselected.png</key>
 		<data>
 		yzA22itzCoNPTOqXqruulHlbvHI=
@@ -1200,10 +976,6 @@
 		<key>nonselected@3x.png</key>
 		<data>
 		7GchCno0bqCx3QXNvxbQVRqPqJI=
-		</data>
-		<key>nsld.sh</key>
-		<data>
-		E9AhfPquIFT4IvtvVxIVofip8zU=
 		</data>
 		<key>pear.png</key>
 		<data>
@@ -1240,10 +1012,6 @@
 		<key>selected@3x.png</key>
 		<data>
 		bXiNFOjJSWTW8V6ZYWkg/V4DRpk=
-		</data>
-		<key>strip-dynamic-framework-architectures.sh</key>
-		<data>
-		gVvTMK8RCo6W7/UyMKXMbRJPimc=
 		</data>
 		<key>unchecked.png</key>
 		<data>
@@ -1485,561 +1253,187 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			okaSZRvnAaJQNm2ya5/1xJgaNGg=
+			maJBYHZuyjghjMkKBLd6QWbZVEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			HqsgneKRdPgb49auUrIOjYmyK9CXNFGfrEoABkaS000=
+			lUXSc5RxFbwIJgHL3oU9dfm47tyAUCrk64lWkDDvWCs=
 			</data>
 		</dict>
-		<key>Frameworks/MDFInternationalization.framework/Headers/MDFInternationalization-umbrella.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SjyIAGSfjOQ4Oasmd1VlO/sqvGQ=
+			ySJI562G9znuDw1pe3I+gPZafhg=
 			</data>
 			<key>hash2</key>
 			<data>
-			hsZ7tzr917nILZ5tnL0ZLvq/kxo4kTHwxv8R9eEdVmM=
+			U8rP07QtYjKhsXIPAZpQEVnfXZnROmR00J501fdfQ2c=
 			</data>
 		</dict>
-		<key>Frameworks/MDFInternationalization.framework/Headers/MDFInternationalization.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oDxyv25cMCmXjHgvhddMdVqEsIE=
+			E5PiMFtkr0ZmN8MxNrxc2l+sWqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			bLDSUHACss0JBZyj/DWWUnK/VjLNgGt3QX8tkESpa5c=
+			h/9hC+664YiphHIfNIxMWY4yL3xxTy/odnrY1bKCxkw=
 			</data>
 		</dict>
-		<key>Frameworks/MDFInternationalization.framework/Headers/MDFRTL.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ro/i7QV8UvCizBYD9ZlW11je4ww=
+			4qk8zwoPP/Hr3/PMu+pXpZndyoI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Eka5mBtm1mYyK+FcfyMCWHJP44X6i/1r34oZYDNV6OE=
+			Slj1H5d6wCG/SKY+GpqQlDAR/96W6To/tdhGSvYXFt0=
 			</data>
 		</dict>
-		<key>Frameworks/MDFInternationalization.framework/Headers/NSLocale+MaterialRTL.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d+hSalJRAKMEZtvbwf419WdfCpc=
+			FEV/+WMMqefzlnhy+R+VDCwm2LI=
 			</data>
 			<key>hash2</key>
 			<data>
-			BQ/mtnvIZnJ4cztZ79gFfjKwS98U7y0cZk7XLh6zwpc=
+			awBt50hVmNGyePSLBYZzTCvyTZgXpi7YDu6L7UyS53Y=
 			</data>
 		</dict>
-		<key>Frameworks/MDFInternationalization.framework/Headers/NSString+MaterialBidi.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			osFv3q0CFTvR53/nd9O2DTJWSHc=
+			0ty6z7Lc+DVv6EbMb17x6wBO1FI=
 			</data>
 			<key>hash2</key>
 			<data>
-			nHUoNqPB8cDy6ENzErbkE2FeMc6/j8/5yhJ+aVwiV1w=
+			IiKVdDiE/LEQzMH9eHqQVlo6CGZfrsW/OT/n+/KzCHk=
 			</data>
 		</dict>
-		<key>Frameworks/MDFInternationalization.framework/Headers/UIImage+MaterialRTL.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bh8jpF9LmK8RTHItwDk0aJ86m/Q=
+			gOrv0ek+tTv+38A1fsImH29pPmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			oOymJlCI50Kd12ADAckPt4AIvkz3gYu137eAOPr0Fpc=
+			YWxGn20RL2/1XhKnQIc2kTl+0H50DQ+BqxZ+HTReBoE=
 			</data>
 		</dict>
-		<key>Frameworks/MDFInternationalization.framework/Headers/UIView+MaterialRTL.h</key>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NRK5NITXgfLar5JFJDA29qJBbeI=
+			4M1rDWOTRrCoNp/ODMQ4NeCEAM4=
 			</data>
 			<key>hash2</key>
 			<data>
-			uNAbyS6ZStzRa8f0dQphrvIAfphbc57NrpRsfQ4TWBg=
+			YqYHh7YYvrvLod2iNkX2ja8Uv4W5I2qx8HwBmA3C7EM=
+			</data>
+		</dict>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6/zeTZLnkYxSzfRaVZqa4FjuWAc=
+			</data>
+			<key>hash2</key>
+			<data>
+			m8wHarn1PYnWvYZhVvBtr5y8clhpWJGX5qrwrHrpsQQ=
+			</data>
+		</dict>
+		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2FGtDJvOI/LkviaOmF9z3/4/rU4=
+			</data>
+			<key>hash2</key>
+			<data>
+			mHgGzwRHbt8d8nUQ3O4sJDpFOCYNM1Lmp9v9bNPk2ek=
+			</data>
+		</dict>
+		<key>Frameworks/IQKeyboardManager.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kib5AgpHFEkq+GwVT/PUh1sPmY4=
+			</data>
+			<key>hash2</key>
+			<data>
+			rMDbLgoorDsrPS/uaaKMp8sMW2qSJEO6J71TBmMTlKQ=
+			</data>
+		</dict>
+		<key>Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jBxhQIAw+u+jC0R+yWoZs2eUzIs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Es975wgAdb7erkHGTzbE4n6QM/y45nMAhle49y5If3A=
 			</data>
 		</dict>
 		<key>Frameworks/MDFInternationalization.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IGbxCyq+76Hxb5cYfM/nWb6QIO4=
+			FEyc+TutdftC2yOHgzN3F08vcJg=
 			</data>
 			<key>hash2</key>
 			<data>
-			0OJgTeSAXkkYbOBkb5V7haZhIuFjLbjv57dZohFRWqE=
+			DZ44uGhnglHVQYt5sCkzgFPzBSN7lm4fEHjRMX4dG2E=
 			</data>
 		</dict>
 		<key>Frameworks/MDFInternationalization.framework/MDFInternationalization</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DWVxtAg86JrJjGKeQ5Hb/0rPbPM=
+			bZxNfBzmOFGTCKtrlsVZXBfeK3M=
 			</data>
 			<key>hash2</key>
 			<data>
-			I9I0eBHDQfOQhpFeIlyNuuLzOdPylA5f7whiRuDZXM8=
-			</data>
-		</dict>
-		<key>Frameworks/MDFInternationalization.framework/Modules/module.modulemap</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			w45NIilvAv1vMGD8p4sCcnn5u0Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			A4hmvnAt1CiEKNnOIXFqo+U8CB46PpPpSjacL3pbmqg=
+			7wfSaOAPvsmUuko1KjvtK2s4MjFhdor6OQuF8gWufrc=
 			</data>
 		</dict>
 		<key>Frameworks/MDFInternationalization.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OjgfloHfeaIx15zvrKjNxgqRjOA=
+			2A5mqvaDv7Y+NN6Z/2sg09O9Cm8=
 			</data>
 			<key>hash2</key>
 			<data>
-			qI2P0vc+BKWAxTWgZ3Bpyx3WxYAt/CZ4920JAp3YwZI=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/CAMediaTimingFunction+MDCAnimationTiming.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			y4LPdOAVrIW2RP8ws9foPxMZbcQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			n+TfyCRz2Xgab0KWEe0NQ2XKvVpq2FHp5lYWZM5RHgQ=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCFontScaler.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uvzCHrDSIFIyycIXCZP2bX7+1T0=
-			</data>
-			<key>hash2</key>
-			<data>
-			EKJYJaPkAG7WAeMEjXL1kbeY5U/WDzgG3KMUFEtVTw0=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCFontTextStyle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0m8r6d0YC3qaph5e5rFy1IGiMFk=
-			</data>
-			<key>hash2</key>
-			<data>
-			S4hwv415SmcT7g7qmsOwNzpZcerRG5ZyegVPaqbEC+s=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCInkGestureRecognizer.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AnrmHqPl/+sPacy6E6Jq5FKr/jY=
-			</data>
-			<key>hash2</key>
-			<data>
-			mbBbystxGqqE2hBpyqq8PJunCMAgZwbao4C+Q4IqgtU=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCInkTouchController.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xfi6SngElvvlTaUAkL1ipAzmjs4=
-			</data>
-			<key>hash2</key>
-			<data>
-			/1tL1cxc8KhSbV6wXKz36mOzJ4sdC3vLmn09/Ikfdv8=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCInkView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+bJpMPQQb6GAoliAdAVWbLHtWx8=
-			</data>
-			<key>hash2</key>
-			<data>
-			jOA7XLXCCziijcl3IqI5+14d6zJIbwDIkK6opBO8HHs=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCMath.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ScRywA3LlJo7SATaiEgBg9eliwg=
-			</data>
-			<key>hash2</key>
-			<data>
-			f9MG3YXyhMWssC3ZeveS5n6iNLjV4LJE5sr4R7GU7kc=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCPalettes.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Dvwu+f4gXYt0Is3/wbWHDp0xukE=
-			</data>
-			<key>hash2</key>
-			<data>
-			i5QV4dtWH1XQS3OBHD4pBR1YQj7T7uOcdEgCRsJoCfE=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCShadowElevations.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tqPPGN95AsJWPRLKOESuOLMPuQU=
-			</data>
-			<key>hash2</key>
-			<data>
-			YRtUyZdVJSpnkJRqtFKqPnD1Vta0PgH4H469Y5pDCHk=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCShadowLayer.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5c+ZTTzvAaXETcldZhBFOFJzB4g=
-			</data>
-			<key>hash2</key>
-			<data>
-			bai2vYrEXP0aXDh//wD9vcU+mfzwHO0/EwxhIVhUGyE=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBar.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W1nHzaDabfp4i82jIr2W/Y9Vi/g=
-			</data>
-			<key>hash2</key>
-			<data>
-			gKPiIjzJ8lpHadu6SEIWxu70S+UM89Hfrj0JWZ0jGE4=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarAlignment.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DnaGt1Ce5C+pncbZJyTuis7QpR8=
-			</data>
-			<key>hash2</key>
-			<data>
-			UxB2b662bxnypLVDpv2K2brz5wV5x8RZ6DUQ17IoWoY=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarExtendedAlignment.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wEoD9wgwpbYhom0fIbaovirOhpE=
-			</data>
-			<key>hash2</key>
-			<data>
-			YJVuQMGTRgqU8TdU0guzyr677uGCTr2zG8t2mSL5/UQ=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarIndicatorAttributes.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WFrUY1T397YFJlJnXnYRpw8AJJ8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Z3GpPaolFrsYNmjPhVpAfkm4bp1I1TexDsBLF7mVPtI=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarIndicatorContext.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ccpAN4cWqBOsk0M5ZTJUsxfAAYg=
-			</data>
-			<key>hash2</key>
-			<data>
-			5AA/uVEAqnXqzGmBjhnj9cydftSi+85P7c2d7d6OrG8=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarIndicatorTemplate.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WmlCg7gykyIwh/xqj34UXdyAZOs=
-			</data>
-			<key>hash2</key>
-			<data>
-			KbVn+Zgw/Mr1vZ/xlTTQVa2rdb62Yy0xC0z7zkSDb+w=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarItemAppearance.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4UtzaM+cBZL6cIsOG11tBSNwAJM=
-			</data>
-			<key>hash2</key>
-			<data>
-			KfNwp1TSxXwX6Fy1i0tjk+5K2KbRcyhFo60mLN8Igpw=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarTextTransform.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zhmCu0mNlzefa2N/2ZEts2fMJNc=
-			</data>
-			<key>hash2</key>
-			<data>
-			wVZhftKw8zX0nz4uhnHIjSRCNhhuCOxX5S2GM18YCyE=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarUnderlineIndicatorTemplate.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LZw1WF/jbU4Cq3iCC8fjF8v6eqI=
-			</data>
-			<key>hash2</key>
-			<data>
-			itVJBXPRcyV7rbNX0B2a4KmNo8aC04OUwwYY33Tde7I=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTabBarViewController.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wNwZplx4RAImOAbRh8K9NM691rU=
-			</data>
-			<key>hash2</key>
-			<data>
-			48ffA+1aCDoT7Rb1d6/Kt+cJBM7Vc1/rzJCt36qYBJc=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MDCTypography.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hNPbDwdYTBzUGH6qIAkoisMK+Po=
-			</data>
-			<key>hash2</key>
-			<data>
-			C3/EFkdHaiTCQ31UjTpaQNviFhnHzdcXiUh16spdmr4=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialAnimationTiming.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k10Rf1zaAstMRUJsr2Be39DI57M=
-			</data>
-			<key>hash2</key>
-			<data>
-			LvIEj0HZH+LWuyLD4vUzjMxHNOPvUWSdHzekAGf2l5Y=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialApplication.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			budVNKcQKrBEVbxfxVk8TKEat5Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			yWTpQFPfswi7LPVK+w2+vIzJxoCMW+ZRRpYIIJ8iHAQ=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialComponents-umbrella.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Db3Il1aUoXKUV2PHJuIvBEJivJU=
-			</data>
-			<key>hash2</key>
-			<data>
-			cmekMrUvgxN0u5lGGgonxeNpnvZCUXx3PSUYmW9BPgA=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialInk.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			w0CGkbiR+3OzfOMGUyt8dFVENrY=
-			</data>
-			<key>hash2</key>
-			<data>
-			Fr3rOLRDTJ3jfUVHfBrG0OAebhi8x+I1lU0YY5orzfU=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialMath.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			272Yk4mLsZC3OYo6TwoKO30w0Vs=
-			</data>
-			<key>hash2</key>
-			<data>
-			v+lWRlyAYgpLnrtqUhHtj5R5LTT3SqpgcjPBG6n3gQA=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialPalettes.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lIbFow0eBEvffjvW6+RcUJTjO2s=
-			</data>
-			<key>hash2</key>
-			<data>
-			4XfmFpWoR2S/Y18zU9NReoNOEtf2Sda8WEfNE74MLfY=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialShadowElevations.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7H7OpNTqc5IMNwmcKOdK+2gtdxY=
-			</data>
-			<key>hash2</key>
-			<data>
-			/mE3mbkthpE8zoblMRfkQAMPzn8n2VNyS2CAhjlyxfI=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialShadowLayer.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sTsGcQRyqNstNzAlIi3NUL2x/CA=
-			</data>
-			<key>hash2</key>
-			<data>
-			S8AQjVZ6xXMuO+H4yT5iewKJosndM9QXp6W1dYUG1o0=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialTabs.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BlY9oMqin08x6m2dpbYf27wpPAA=
-			</data>
-			<key>hash2</key>
-			<data>
-			08rD55fP9CT6kVMJbpdYAx6mI6L5VEkMRya/T5sbEzQ=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/MaterialTypography.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cFOpmAvadarNqnBds7Z3mzqltKE=
-			</data>
-			<key>hash2</key>
-			<data>
-			wiBdfALJX7TyOm3g+C4T3ACINPhRrS99udi8q3m6460=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIApplication+AppExtensions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LFi32ySiq4s/afqduyyPx5ACjKE=
-			</data>
-			<key>hash2</key>
-			<data>
-			1R8uN0Rk2ZCik4PAcPwwdaPDbnMqjlBtCaZQJq8jJnw=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIFont+MaterialScalable.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GXRo2D2HWzCSvYRzlT/WYWcHns0=
-			</data>
-			<key>hash2</key>
-			<data>
-			J2hZL5ebn5aJXh9hQoGvUlpQnwY28Yqu+3u37KMRwyA=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIFont+MaterialSimpleEquality.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1PHnopeN5JXMG6UoX5ngObapHC8=
-			</data>
-			<key>hash2</key>
-			<data>
-			5x59qlFK+OLwr/zL4ND54Nu6k2xAsFJs++KLH5b8Sho=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIFont+MaterialTypography.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qdpPGDt5O/XKoAACbJjyPnbnlvE=
-			</data>
-			<key>hash2</key>
-			<data>
-			loYbQmPkXDt6cx8bxouSZXnU2qUPoKial3a/fTEvevk=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIFontDescriptor+MaterialTypography.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HvakmsEE/4umBLZ44qkUid1MJ9M=
-			</data>
-			<key>hash2</key>
-			<data>
-			3sWZNvxIkjNk2Ge5iL+ItsvMnrjWK/v2u7JUWEBJklI=
-			</data>
-		</dict>
-		<key>Frameworks/MaterialComponents.framework/Headers/UIView+MDCTimingFunction.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mwmVAPALonzL3clJxF62QNUDoM4=
-			</data>
-			<key>hash2</key>
-			<data>
-			b4n5YbIsDw2nRgXhTgyV7dN+jcY5UONtTe5TBQZPqcY=
+			G6YeNcOcuNDIMARJqqjrml8ng6lwkYK4eim7EQpGXko=
 			</data>
 		</dict>
 		<key>Frameworks/MaterialComponents.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4PRIMvFvdvE3mlRvIzhwCmNgsOY=
+			7mCmiaLq5Nk0jCkoUHMK7FkgsrU=
 			</data>
 			<key>hash2</key>
 			<data>
-			4tjdVKNJg4DtuMLUCsdOseEX0Uws4TWIzzDDqS84+JY=
+			DukkMc22uDtXY5upzToU0f5ZFwNKXgvhRz/d5YrwR5U=
 			</data>
 		</dict>
 		<key>Frameworks/MaterialComponents.framework/MaterialComponents</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0b+HhW1m+aMDGve/XMPU+Lytvuk=
+			bjeVHwaTlq4HCA7d6n3sI2DRdmM=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Hn/1VRFWu2KkmVRUwjzSMnPGfxat4u55cZb5a5o3NQ=
+			0s1u7qHkpucz+fwFVNd+M2NB1D8AOowrQQaM13wLg1o=
 			</data>
 		</dict>
 		<key>Frameworks/MaterialComponents.framework/MaterialTabs.bundle/Resources/ar.lproj/MaterialTabs.strings</key>
@@ -2770,59 +2164,48 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/MaterialComponents.framework/Modules/module.modulemap</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Y357XW8tGkHs3mzobsJXUvSJlUo=
-			</data>
-			<key>hash2</key>
-			<data>
-			0G+3r2ojVx9LkGyLvG4HZ1c3REbket0D3I88LymSWpo=
-			</data>
-		</dict>
 		<key>Frameworks/MaterialComponents.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xZ7t0VMMU7fC8tJ9tbvwgb0Gr2Q=
+			SVsfd/NUYPxVqF16BI1ZFEMUHCI=
 			</data>
 			<key>hash2</key>
 			<data>
-			mej26qIG79KYak07p81nOxRuRKetK5bQrT72HSDRWLU=
+			nwP0NfWiKGNCvV34ob0Pbxrd/jKSrPuSz7LR9ZnGvTo=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			12SWJhWR4xAwHKSx6ppVBvrES3c=
+			Ew1nkghYuJh54YjS58bs/lP19tc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xvb0nZho5PN67HWRbt93s1wpDmfH9KeCr2p7pD1vmhA=
+			+D6ts5HoZeAAj12gy5sKG/b9xbMmah6DeX+sBFG9lC4=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/NativeScript</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			amRzOcHiozQFg1RfZ5Lgx0BAcfg=
+			HSGmz2mrmAdglq/qRlYIvGjlWgw=
 			</data>
 			<key>hash2</key>
 			<data>
-			R1ZFpBBG58+rx2oECPy2K0pKe5xZOPzm2iQ4NhEqFVk=
+			/VvrwDf1zH3OTtEOR1sbLyr+s4tMRvWIsJUE67zLxso=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6d72WxLmNGtAhCeyRf4yUZb3QQo=
+			9lUh+afPCwlDZlT1vcCiR5+sjoo=
 			</data>
 			<key>hash2</key>
 			<data>
-			AtfseHz+yKZfywVml3A6Gwp5lNJYTthD/wnNjOvU/e4=
+			mQplsEwwrbDix1tfTD/lDEaD4mm8e1Lo7U06FjUH+DA=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/Headers/TNSLabel.h</key>
@@ -2884,11 +2267,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Gc0/qrjMLRQZBZ0pBK/RS3VgkQo=
+			TTfZFp6iYZ1xhfYjDz6pNVICf5I=
 			</data>
 			<key>hash2</key>
 			<data>
-			RqLju8j17YY416+YCrZ2f6HY2Alx8diCLkm8/JmWvfk=
+			o3IKqme4Y7Pjek2lcM00t4VjtT5UZj4eNRkg5rBHOeM=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/Modules/module.modulemap</key>
@@ -2906,121 +2289,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			afYOcW8jBC1jNY2YkuuX5cXQ+8k=
+			T6A2cGDNrXlqWxkZzc5hY1pvg0M=
 			</data>
 			<key>hash2</key>
 			<data>
-			yVyX/zoZLMusGdPoPYyhv7hIJ3P0BToAZcN8zIOjhc0=
+			yOP0vKKjsW/yp6QCDoO8r1oQZk95dwbVUEOeqct9hW0=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			45lbWQUBPGkX9wC/jonNVt1ELfc=
+			Q50pPLA/eN71EdoxvUYuDVMX764=
 			</data>
 			<key>hash2</key>
 			<data>
-			VnABq4fe1ZMexipvv7oi9CC4tVQQXN4YrUZFADWJDXk=
-			</data>
-		</dict>
-		<key>Icon-60@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			B8NqNeq/bSVR/81O/iSV7qdlliI=
-			</data>
-			<key>hash2</key>
-			<data>
-			o16ogWd05dfTbeZOAt9j8Nj2z1i72wKOAGKFXuSgWSk=
-			</data>
-		</dict>
-		<key>Icon-Small-40.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Zw3kaNrLFqgviLqdKRdLO2TF4u4=
-			</data>
-			<key>hash2</key>
-			<data>
-			ANiUDXBEdlOgDwsBwIYceCb1WJJBGAO95wRjWyNRMzw=
-			</data>
-		</dict>
-		<key>Icon-Small-40@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2hOUsZKeQybqcE2sglZ5oVmRxBU=
-			</data>
-			<key>hash2</key>
-			<data>
-			bUIfW5E2GQz7nKkBsKrrwviQRoiP0Ld9uZExZRmwxzs=
-			</data>
-		</dict>
-		<key>Icon-Small-40@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0kxGwGurizS/ZZoI4c46IdqPiVI=
-			</data>
-			<key>hash2</key>
-			<data>
-			XJttwa1BzGH45RttAoJvBEh7FaQwqXr4tHCOXAM9qyo=
-			</data>
-		</dict>
-		<key>Icon-Small-50.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+Z2RB/2R/EaOIKowgP1YjtFuV9Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			YHmsiejMPN/1GAGqQfe3IEzDYiZuct4Fou+zw6QTXuA=
-			</data>
-		</dict>
-		<key>Icon-Small-50@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FM2+ykcXYAxgOPcqGnovDsFibG8=
-			</data>
-			<key>hash2</key>
-			<data>
-			ptF7vy9/FFjj2qB+9iB13Msbndt7KvT4I6XXNCwhfRk=
-			</data>
-		</dict>
-		<key>Icon-Small.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			v7yRlpdJhdz4oTV2b4SJSiiM+IU=
-			</data>
-			<key>hash2</key>
-			<data>
-			UtD6Xo2i260u6RsYL+wPO0bH8RBmqqS50w8KPEhxXkc=
-			</data>
-		</dict>
-		<key>Icon-Small@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WeKLPphqv8kYwri+soMi/Ii1H3k=
-			</data>
-			<key>hash2</key>
-			<data>
-			B/vhOcdWS585wi5riSfr37Zt+LcT1AvtFHWag+FWtV0=
-			</data>
-		</dict>
-		<key>Icon-Small@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AnTr2a6HZ1/xUWTye6jbjQ+d95U=
-			</data>
-			<key>hash2</key>
-			<data>
-			mBbgxqbUe/rag8hKrOgpzSNFrjzfth2vmJgDx8FqpR0=
+			IIfUcExhB0v8FjHbGrKmunEuSGduSr0Mq1AsTK9HptE=
 			</data>
 		</dict>
 		<key>LaunchImage-568h@2x.png</key>
@@ -3203,22 +2487,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4Z6b2efQdmfu9wq8wzmTGSQ6aSE=
+			kxEnOSHosE17rDVtuwWlFZhhGDY=
 			</data>
 			<key>hash2</key>
 			<data>
-			qPhR4Zew9tWffH3mDDmuvtZV083xYT7cCwM4uH0vXy0=
+			8EB2tSVX7dRj4y18UMEinIqLr5Yr1N+0+rpPMB3PhL0=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oic5tL5twrhb95w6LXilkmAFm3c=
+			L5WYFBfdMVZaEUv4slz1+1mzVc8=
 			</data>
 			<key>hash2</key>
 			<data>
-			gfVBICtyN6+mDBKMYywrmCc3LcDYz2XYX7yvE/G+MbI=
+			2pKDuXujLY1//MlnGGJLhXkbqOdTZfa+umMGQXpPC7w=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -3236,22 +2520,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rEPzFImHTko29kyqS7RCJU51j38=
+			7czrSyL0prq+tEkJd2eS/30Z+gU=
 			</data>
 			<key>hash2</key>
 			<data>
-			tfVdRwOCUkhY4ELl63EW61hiYFPYTt6vsGRMbS4fwP0=
+			I5ItbfCb8I0yJHpwOZitaq4sL6AT7dPn7mnMTnNoNXc=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AUlCVJVs7b9/fYbYUm6l66FjK18=
+			QWNrHnQjmXgEFI0ojpWBp3EwCX8=
 			</data>
 			<key>hash2</key>
 			<data>
-			LceZBQxEKje7OlgWGCRh3u7xWnDAbfhAZYli3TQO9j8=
+			1+ZnwTE7Slrj9+8vX3DA15QlgeVcWhndOWjvKl/apl4=
 			</data>
 		</dict>
 		<key>add.png</key>
@@ -3291,55 +2575,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			082rLJaEPUwNA9ehfhnALB6Rv18=
+			Wqtxpa0O/W241pI8nFArIqbU+jA=
 			</data>
 			<key>hash2</key>
 			<data>
-			OE2loRd0EJ8cVYe0SO2iWYwTumlFchOApAYgKA1qIQs=
+			Y/Kdu03oTx7LDgk0GFroFXCZHyDKSOGFnMi8+WtVJwM=
 			</data>
 		</dict>
 		<key>app/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zA4+UEq4543/EFVbXRGdB05oX9Q=
+			DcRRCzwUq4ePrVctSCvZvIqSYJk=
 			</data>
 			<key>hash2</key>
 			<data>
-			nv3VibjqkaQDcOctJY8m31uSuO/mx8oo0xui9H1MhME=
+			uivBAqlSAXil6wuirxmYMF8N4Pr/wzotT0IUJCIBjnY=
 			</data>
 		</dict>
 		<key>app/runtime.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0LHM6gVnenL8tqXfPfE6XTRDJ7o=
+			8ICzpRPR8hRUrG8Yb0B5OsTjTgM=
 			</data>
 			<key>hash2</key>
 			<data>
-			7qBDbRqdk1ozlqakYqZwGQRddDYR8ew8Q4qpy27HPes=
+			rwYO0Ts3L6lSoEfbAWDTRjnEn2LJ+xj+c/tdOE9pDeQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/inspector_modules.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xypzbaRHxqnN7vI2rMA/g3oVy7Q=
+			yL1ZRkBofRfzUSGNKiDIZGoaULE=
 			</data>
 			<key>hash2</key>
 			<data>
-			skR6X4JPhwCYEU7vbUClEDHE4CG5O/XbXbZYguT8r5U=
+			umQJGPo+0i4Wo3p0IXgc7orRw8LYg3QwNHg8T/hD9mo=
 			</data>
 		</dict>
 		<key>app/vendor.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tz836rKGoaPy2E7H92cfcXUBFUs=
+			TSj7B7gZf81AEye3HBH+9bOfu5k=
 			</data>
 			<key>hash2</key>
 			<data>
-			f9M0CVa/z9ze4Der+tBQRURKpJ1wd73krBFAz90IDvw=
+			oQDSfuiilY4ICr3Bm+6Xb3m9FMYKk3OxX70fVq/epDo=
 			</data>
 		</dict>
 		<key>apple.png</key>
@@ -3555,33 +2839,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RBxphbGUn8wYe4D6cNHUXR0PM/Y=
+			Jn/HWjoFgYpM0Mu0qHygorOWTyc=
 			</data>
 			<key>hash2</key>
 			<data>
-			j6DQZ4iglUC4dtDCixQfWJQwBVJH7bJeGiYj87WvLjQ=
+			pGZ39vnbOVv9A0mNgHVy5A2xA9yWb3IXASDHwvmsMgc=
 			</data>
 		</dict>
 		<key>delete@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qNOmAlctjuX6yqD9A+fIFu/9Q54=
+			A2hBKne6++ePSa4dgh6Dt0hAy+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			x2I5Fn2xdA3QzTZZdI5XkjQCTr4B7cdXckSgvs6rMQE=
+			wGP3Ga9vdRrzrt4Nu4JWx1ltmyiCylwoju3W6L06k8A=
 			</data>
 		</dict>
 		<key>delete@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3a4seiwUoswM2Ieqt0DzEdAY6Ps=
+			dIExSZ/RhyGIoR+on1RULH4NDgU=
 			</data>
 			<key>hash2</key>
 			<data>
-			TuEDCsJku43kE25L8W4nnvE225VXDaQPCWMmmKzqtpo=
+			5mzoPtiFLh8+12ezFLE+syvflA5YlGVTviNfjHLgdB4=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -3607,105 +2891,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>iTunesArtwork@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BZNmb45PvmvPF+4BHvitDxBNW4c=
-			</data>
-			<key>hash2</key>
-			<data>
-			qjhG3zGuD/mpjEbgko8N6pqDkqVQ/1nFVSwPvvfyTrQ=
-			</data>
-		</dict>
-		<key>icon-60.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PCg7PaK5ZcNZGrkOSbDoEPeffq4=
-			</data>
-			<key>hash2</key>
-			<data>
-			I6TtAoDRDjso5JtIPTB6w7m2RnT3nFQE31P1MyHm688=
-			</data>
-		</dict>
-		<key>icon-60@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BGmjpRa0+U6XyN3fYo50xxIO81o=
-			</data>
-			<key>hash2</key>
-			<data>
-			Fd4kLa7wB23Hb8Jl7Uw0wo74zZZ+L6E31Caqne8FTf4=
-			</data>
-		</dict>
-		<key>icon-72.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hfofKpvphfNnvLf6t5JkcTu3CN8=
-			</data>
-			<key>hash2</key>
-			<data>
-			AOmebbRkVJucspPvRnuiqHn2YjAhNdDzu2jGYmst8iQ=
-			</data>
-		</dict>
-		<key>icon-72@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UwcLsbATOPtIpBhBPEl61C28E8g=
-			</data>
-			<key>hash2</key>
-			<data>
-			lZ6i2nyY8O/nuwH8btYTDBwHqU42Hrki0HAvTMtHudQ=
-			</data>
-		</dict>
-		<key>icon-76.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			a5ApTdcuVJASzk6xr7RLbLrJCtA=
-			</data>
-			<key>hash2</key>
-			<data>
-			RAgRf/Q5kWqpkA0c2PZl4u0ep/8Ol63EPPK+RgNO0AA=
-			</data>
-		</dict>
-		<key>icon-76@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JbGs6WSNlJFWmnlD4joySkeq2N0=
-			</data>
-			<key>hash2</key>
-			<data>
-			zkqRwLxPk4p9EHDSiHm+GQ4A/49Nuzw7InVYQs0FhOI=
-			</data>
-		</dict>
-		<key>icon.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mF5zm/6ri1LFXP/eXtnAMx9wkkg=
-			</data>
-			<key>hash2</key>
-			<data>
-			ShuxCirsICCgQGCV0XtkjVXIvQMkYa2L+ylknO9K+po=
-			</data>
-		</dict>
-		<key>icon@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PtyN2Jv2YgydOnDJrfDA1b6M8xM=
-			</data>
-			<key>hash2</key>
-			<data>
-			JdgDnzU1uNRQ+dn8BtiWGJFiGZrkvPuAzAwZsBS0TVw=
-			</data>
 		</dict>
 		<key>logo_login.png</key>
 		<dict>
@@ -3806,39 +2991,6 @@
 			eiswp+mu54nZQYoWWVGRorK+WNSRQDKXPUzTHt176ZM=
 			</data>
 		</dict>
-		<key>nativescript-post-build</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1JTXEsfgoVbJZTYUkoTwXloHhWA=
-			</data>
-			<key>hash2</key>
-			<data>
-			+dEs8xTQ5o0IW0xkoYUXfMA3+Slr4dS1PYWKHlrAzI0=
-			</data>
-		</dict>
-		<key>nativescript-pre-build</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oUiHGFf12xOG64bTH9RZZfGL+1s=
-			</data>
-			<key>hash2</key>
-			<data>
-			KxP4gDR7IDjD/PsI+yg9EYdZ25o/D/aF9+Aj99U/mqQ=
-			</data>
-		</dict>
-		<key>nativescript-pre-link</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DBAGK9SkY6luGbDelF5IFIwG/3I=
-			</data>
-			<key>hash2</key>
-			<data>
-			oqLSHyfc09S3CFJKUS6+s7gDN47GJnFiZVx/PZcSObc=
-			</data>
-		</dict>
 		<key>nonselected.png</key>
 		<dict>
 			<key>hash</key>
@@ -3870,17 +3022,6 @@
 			<key>hash2</key>
 			<data>
 			KGYj1gEV/mrKN2Z3+UcBcgkMfgFkPL0Tmi8Yxt8nCUM=
-			</data>
-		</dict>
-		<key>nsld.sh</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			E9AhfPquIFT4IvtvVxIVofip8zU=
-			</data>
-			<key>hash2</key>
-			<data>
-			SrRSWafZBODRXVYBrtFLxdrHpTH2Ej2DWsSXPlg0+i8=
 			</data>
 		</dict>
 		<key>pear.png</key>
@@ -3980,17 +3121,6 @@
 			<key>hash2</key>
 			<data>
 			8ijkY9RNAZxKwYeARSJ9lKvVVAXbEtR3ZVDEdgmMqY0=
-			</data>
-		</dict>
-		<key>strip-dynamic-framework-architectures.sh</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gVvTMK8RCo6W7/UyMKXMbRJPimc=
-			</data>
-			<key>hash2</key>
-			<data>
-			+Y1OjRxAjsEjfVvQnYoxg7osyd2j1pDyaMWW9PAGJcE=
 			</data>
 		</dict>
 		<key>unchecked.png</key>

@@ -1,14 +1,9 @@
-# problemsolver
+# Precursor
 
-## Steps for HelloWorld
-
-==> tns create ProblemSolver --template tns-template-hello-world-ng
 
 
 ## Steps
 
-
-xxx tns create ProblemSolver --template tns-template-tab-navigation-ng
 
 
 tns create Precursor --template tns-template-drawer-navigation-ts

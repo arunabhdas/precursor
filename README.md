@@ -1,5 +1,11 @@
 # problemsolver
 
+## Steps for HelloWorld
+
+==> tns create ProblemSolver --template tns-template-hello-world-ng
+
 
 ## Steps
-==> tns create ProblemSolver --template tns-template-hello-world-ng
+
+
+==> tns create ProblemSolver --template tns-template-tab-navigation-ng

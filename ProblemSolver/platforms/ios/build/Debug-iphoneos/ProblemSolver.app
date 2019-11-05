@@ -1,1 +1,0 @@
-/Users/tyleracosta/Library/Developer/Xcode/DerivedData/ProblemSolver-fsigkltrrtkkevejcmnudncjjjxo/Build/Intermediates.noindex/ArchiveIntermediates/ProblemSolver/InstallationBuildProductsLocation/Applications/ProblemSolver.app
